@@ -1,0 +1,7 @@
+{
+  "name": "c",
+  "scripts": {
+    "test": "echo test-c",
+    "build": "echo build-c"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "a",
+  "scripts": {
+    "test": "echo test-a",
+    "build": "echo build-a"
+  },
+  "dependencies": {
+    "b": "*",
+    "c": "*"
+  }
+}

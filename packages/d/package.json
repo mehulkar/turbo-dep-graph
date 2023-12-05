@@ -1,0 +1,7 @@
+{
+  "name": "d",
+  "scripts": {
+    "test": "echo test-d",
+    "build": "echo build-d"
+  }
+}

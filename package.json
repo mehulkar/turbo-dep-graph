@@ -1,0 +1,7 @@
+{
+  "name": "turbo-graphs",
+  "workspaces": [
+    "packages/*"
+  ],
+  "packageManager": "npm@9.8.1"
+}

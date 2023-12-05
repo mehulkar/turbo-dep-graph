@@ -1,0 +1,10 @@
+{
+  "pipeline": {
+    "test": {
+      "dependsOn": [
+        "^build"
+      ]
+    },
+    "build": {}
+  }
+}
